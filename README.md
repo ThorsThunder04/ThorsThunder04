@@ -6,7 +6,7 @@ I often make small little programming project that just do whatever. Often somet
 
 Here's an image I made with one of my latest projects, MOSAIC!!!
 
-<img src="out.png" style="width:512xp">
+<img src="out1.png" width="256"/>
 
 Some of the programming languages I am most familiar with is Python, C and javascript (and Java, but mostly just working with the OOP side).
 I know other languages too of course, since there's loads of them in my courses. But I don't use them too much elsewhere.
