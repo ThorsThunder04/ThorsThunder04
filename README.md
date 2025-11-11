@@ -1,4 +1,4 @@
-# WHAT'S CRACKALAKIN' ‼️❓❓
+# HEYA
 
 I'm a CS student who studies in France. I LOOOOOVE movies and doing photography. 
 
